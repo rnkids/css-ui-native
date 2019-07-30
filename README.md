@@ -1,18 +1,18 @@
-# css-js-components
+## css-ui-native
  react-native styled by css prop
 ## Usage
 
 
 ```jsx
 
-import { View, Button } from '@css-ui/native';
+import { View, Button } from 'css-ui-native';
 
 ```
 Then use css={{stylesObject}} 
 
 ```jsx
 import React from "react";
-import { Button, Text, View } from "@css-ui/native";
+import { Button, Text, View } from "css-ui-native";
 
 const App = () => {
 
