@@ -1,6 +1,6 @@
 {
   "name": "@css-ui/native",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "react-native components styled by css prop",
   "dependencies": {
     "styled-components": "^5.0.0-beta.8"
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanglequyvn/css-js-components"
+    "url": "https://github.com/sanglequyvn/css-ui-native"
   },
   "author": "css-ui",
   "license": "MIT"

@@ -1,22 +1,18 @@
 # css-js-components
- react, react-native styled by css prop
+ react-native styled by css prop
 ## Usage
 
 
 ```jsx
-//IMPORT
-//react
-import { Div, Button, Img, H1 } from 'css-js-components';
-//react-native react-native-web 
-import { View, Button } from 'css-js-components';
+
+import { View, Button } from '@css-ui/native';
 
 ```
 Then use css={{stylesObject}} 
 
 ```jsx
 import React from "react";
-import { Button, Text, View } from "css-js-components";
-import * as N from 'react-native'
+import { Button, Text, View } from "@css-ui/native";
 
 const App = () => {
 
@@ -53,4 +49,4 @@ export default App;
 ```
 
 
-Created by Le Quy Sang
+Created by css-ui
